@@ -1,5 +1,5 @@
 <center> 
-<H1>Hi there &#128526; </> 
+<H1>Hi there &#128526; </H1> 
 </center>
 
 ## Info
