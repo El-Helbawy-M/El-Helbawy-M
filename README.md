@@ -1,6 +1,4 @@
-<center> 
-<H1>Hi there &#128526; </H1> 
-</center>
+<center><H1>Hi there &#128526; </></center>
 
 ## Info
 My name is Mohamed Khaled El-helbawy 
@@ -16,7 +14,11 @@ using flutter, worked as a freelancer for one year on two projects, built a star
 > I love teaching the contents in general, but I've determined what I'm able to teach now :grin:.
 
 ## My contacts
-* 
+* <a href="https://github.com/El-Helbawy-M"><image src="github.png"></a>
+* <a href="https://hamada.helbawy.hh@gmail.com"><image src="gmail.png"></a>
+* <a href="https://www.linkedin.com/in/mohamed-el-helbawy-ab89781bb/"><image src="linkedin.png"></a>
+* <a href="https://www.facebook.com/hamada.helbawy"><image src="facebook.png"></a>
+
 <!--
 **El-Helbawy-M/El-Helbawy-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
