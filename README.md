@@ -18,6 +18,12 @@ using flutter, worked as a freelancer for one year on two projects, built a star
 * <a href="https://hamada.helbawy.hh@gmail.com"><image src="gmail.png"></a>
 * <a href="https://www.linkedin.com/in/mohamed-el-helbawy-ab89781bb/"><image src="linkedin.png"></a>
 * <a href="https://www.facebook.com/hamada.helbawy"><image src="facebook.png"></a>
+  
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **El-Helbawy-M/El-Helbawy-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
